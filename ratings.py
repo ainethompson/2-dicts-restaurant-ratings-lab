@@ -1,0 +1,2 @@
+"""Restaurant rating lister."""
+
